@@ -1,6 +1,5 @@
 layout: sidebar
 style: light
-theme: architect
 
 plugins:
   - jekyll-octicons
