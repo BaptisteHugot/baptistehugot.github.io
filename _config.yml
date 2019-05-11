@@ -1,6 +1,5 @@
 layout: sidebar
-style: light
-theme: jekyll-theme-architect
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -10,9 +9,6 @@ plugins:
 permalink: /:year/:month/:day/:title/
 
 repository: baptistehugot/baptistehugot.github.io
-
-title: [The title of your site]
-description: [A short description of your site's purpose]
 
 defaults:
   -
