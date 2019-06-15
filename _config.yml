@@ -1,6 +1,9 @@
 layout: sidebar
 style: light
 
+# Google Analytics
+google_analytics: UA—110987148-2
+
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
