@@ -2,7 +2,7 @@ layout: sidebar
 style: light
 
 # Google Analytics
-google_analytics: UA—110987148-2
+# google_analytics: your_id
 
 plugins:
   - jekyll-octicons
@@ -31,6 +31,7 @@ projects:
     forks: true
     projects:
       - baptistehugot.github.io
+      - BaptisteHugot
 
 social_media:
   # behance: your_username
